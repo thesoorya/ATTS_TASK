@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  width: 100%;
+  font-family: "General Sans", sans-serif;
+  background-color: #fbfbfb;
+  color: #1d1814;
+}
+button,
+i {
+  cursor: pointer;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", serif;
+}
+a{
+  color: inherit;
+  text-decoration: underline;
+}
+.hero_title h1 {
+  font-family: "Melodrama", serif;
+}
